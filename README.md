@@ -25,3 +25,4 @@ h/ Thống kê số lượt thực hiện chuyến bay của từng máy bay the
 
 Lưu ý: Chương trình cho phép lưu các danh sách vào file; Kiểm tra các điều kiện khi nhập liệu làm dữ liệu bị sai.
 
+Các bạn làm đồ án lưu ý phần nhập số hiệu máy bay thì để id tự tăng hoặc là cho người dùng nhập vào thôi nhé.
